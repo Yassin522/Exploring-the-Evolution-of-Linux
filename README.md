@@ -1,5 +1,8 @@
 # Exploring-the-Evolution-of-Linux
-#### This repository contains a Jupyter Notebook that analyzes the evolution of the Linux kernel. It provides insights into the development efforts by identifying the top 10 contributors and visualizing the commits over the years.
+#### This repository contains a Jupyter Notebook that analyzes the evolution of the Linux kernel. It provides insights into the development efforts by identifying the top 10 contributors and visualizing the commits over the years
+<p><a href="https://commons.wikimedia.org/wiki/File:Tux.svg">
+<img style="float: right;margin:5px 20px 5px 1px" width="120" src="https://assets.datacamp.com/production/project_111/img/tux.png" alt="Tux - the Linux mascot">
+</a></p>
 ---
 
 ## Data
